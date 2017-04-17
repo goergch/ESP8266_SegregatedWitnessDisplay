@@ -1,3 +1,5 @@
+//copyright 2017 Christian Görg
+
 #include "SegwitClient.h"
 
 
