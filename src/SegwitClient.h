@@ -1,3 +1,4 @@
+//copyright 2017 Christian Görg
 #pragma once
 
 #include <JsonListener.h>
